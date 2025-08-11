@@ -10,8 +10,8 @@ decisões estratégicas de RH.
 
 ## 🗂️ Estrutura do Projeto
 
-- **📁 Dataset** → Base de dados original e tratada.
-- **📓 Notebook Google Colab** → Código de leitura, limpeza e análise exploratória.
+- **📁 Dataset** → ![Base de dados original].(https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data)
+- **📓 Notebook Google Colab** → Tratamento da base de dados com código de leitura, limpeza e análise exploratória.
 - **📊 Dashboard Power BI** → Visualizações interativas com KPIs e insights.
 
 ---
