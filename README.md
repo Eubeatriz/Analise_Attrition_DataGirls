@@ -67,5 +67,5 @@ decisões estratégicas de RH.
 
 1. Clone este repositório  
    ```bash
-   git clone https://github.com/Eubeatriz/Analise_Attrition_DataGirls/tree/main
+   git clone https://github.com/Eubeatriz/Analise_Attrition_DataGirls
 
