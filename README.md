@@ -1,8 +1,10 @@
 # 📊 Análise de Dados - [Análise de Turnover (Rotatividade) de Funcionários]
 
-![Capa do Projeto]([https://i.pinimg.com/736x/1f/f8/4d/1ff84d3a1d07dd77c64a693cf150a63e.jpg])
+![Capa do Projeto](https://i.pinimg.com/736x/1f/f8/4d/1ff84d3a1d07dd77c64a693cf150a63e.jpg)
 
-> **Objetivo:** Explorar, limpar e visualizar dados para gerar insights estratégicos, utilizando **Python**, **Google Colab** e **Power BI**.
+> **Objetivo:** O objetivo é explorar indicadores de rotatividade (attrition) de funcionários
+e construir um dashboard interativo que ajudem a empresa fictícia Data Girls S.A a tomar
+decisões estratégicas de RH.
 
 ---
 
