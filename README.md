@@ -59,7 +59,13 @@ decisões estratégicas de RH.
 ## 🖼️ Prévia do Dashboard
 
 <img width="1277" height="717" alt="PreviewDash" src="https://github.com/user-attachments/assets/9f129e7b-81bf-4271-b526-3f5306c4219d" />
+---
 
+## 🪶 Glossário
+- Rotatividade (Attrition): é o termo usado para descrever o movimento de saída de funcionários de uma empresa.
+- Dataset: é um conjunto de dados organizados.
+- Insights: são aquelas ideias ou descobertas que ajudam a entender melhor alguma coisa ou tomar decisões mais inteligentes.
+- KPIs: são números que mostram se algo está indo bem ou mal. Eles ajudam a medir o sucesso de uma ação, projeto ou área da empresa.
 
 ---
 
