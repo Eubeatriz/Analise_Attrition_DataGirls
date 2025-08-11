@@ -1,7 +1,5 @@
 # 📊 Análise de Dados - [Análise de Turnover (Rotatividade) de Funcionários]
 
-![Capa do Projeto](https://i.pinimg.com/736x/1f/f8/4d/1ff84d3a1d07dd77c64a693cf150a63e.jpg)
-
 > **Objetivo:** O objetivo é explorar indicadores de rotatividade (attrition) de funcionários
 e construir um dashboard interativo que ajudem a empresa fictícia Data Girls S.A a tomar
 decisões estratégicas de RH.
@@ -60,15 +58,7 @@ decisões estratégicas de RH.
 
 ## 🖼️ Prévia do Dashboard
 
-![Dashboard Preview](link_para_imagem_ou_gif_do_dashboard)
-
----
-
-## 🗝️ Recomendações e Próximos Passos
-
-- Otimizar coleta de dados para atualização automática
-- Aprofundar análises preditivas (Machine Learning)
-- Adicionar novas métricas no dashboard
+![Dashboard Preview](file:///C:/Users/beatr/Pictures/Screenshots/PreviewDash.png)
 
 ---
 
