@@ -58,7 +58,8 @@ decisões estratégicas de RH.
 
 ## 🖼️ Prévia do Dashboard
 
-.(file:///C:/Users/beatr/Pictures/Screenshots/PreviewDash.png)
+<img width="1277" height="717" alt="PreviewDash" src="https://github.com/user-attachments/assets/9f129e7b-81bf-4271-b526-3f5306c4219d" />
+
 
 ---
 
