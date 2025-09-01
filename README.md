@@ -1,4 +1,4 @@
-# 📊 Análise de Dados - [Análise de Turnover (Rotatividade) de Funcionários]
+# 📊 Análise de Dados - [Análise de Turnover (Rotatividade) de Funcionários da Data Girls S.A]
 
 > **Objetivo:** O objetivo é explorar indicadores de rotatividade (attrition) de funcionários
 e construir um dashboard interativo que ajudem a empresa fictícia Data Girls S.A a tomar
@@ -69,10 +69,3 @@ decisões estratégicas de RH.
 - **KPIs:** são números que mostram se algo está indo bem ou mal. Eles ajudam a medir o sucesso de uma ação, projeto ou área da empresa.
 
 ---
-
-## 📌 Como Executar o Projeto
-
-1. Clone este repositório  
-   ```bash
-   git clone https://github.com/Eubeatriz/Analise_Attrition_DataGirls
-
